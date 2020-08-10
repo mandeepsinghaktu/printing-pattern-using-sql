@@ -1,1 +1,0 @@
-# printing-pattern-using-sql
